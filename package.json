@@ -1,0 +1,22 @@
+{
+  "name": "data_struct_commander_s1",
+  "version": "1.0.0",
+  "description": "Materials for Intro to Commander & Data Structures & Bash & C9 Session #1",
+  "main": "printmyname.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricmclaughlin/data_struct_commander_S1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricmclaughlin/data_struct_commander_S1/issues"
+  },
+  "homepage": "https://github.com/ricmclaughlin/data_struct_commander_S1#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
