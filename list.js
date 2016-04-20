@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var myList = [];
 myList[0] = 'chicken';
 myList.push(3.2);
@@ -26,6 +28,6 @@ console.log(myList.sort());
 // numeric sort ascending
 console.log(myList.sort(sortNumber));
 
-function sortNumber(a,b) {
-    return a - b;
+function sortNumber(a, b) {
+  return a - b;
 }

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var myQueue = ['find dynamite'];
 
 // contents of our queue
